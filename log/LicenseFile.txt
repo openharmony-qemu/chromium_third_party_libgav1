@@ -1,0 +1,2 @@
+15:58:44 WARN  - OatPolicyVerifyAnalyser	third_party_libgav1/	LICENSEFILE	LICENSE	Apache-2.0	
+15:58:44 WARN  - OatPolicyVerifyAnalyser	third_party_libgav1/	OTHERLICENSEFILE	tests/third_party/libvpx/LICENSE	BSD-3-Clause	
