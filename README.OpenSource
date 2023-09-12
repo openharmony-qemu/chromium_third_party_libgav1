@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_libgav1"                   # 上游开源软件名全称
+        "Name": "libgav1"                   # 上游开源软件名全称
         "License":       # 上游开源软件中包含的许可证信息
         "License File": "LICENSE",       # 许可证所在文件路径
         "Version Number": "58d08dbd45a3ee707e76f32a9c04d770c3d22e38"
