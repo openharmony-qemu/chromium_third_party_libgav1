@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "libgav1",
+        "License": "Apache-2.0",
+        "License File": "LICENSE",
+        "Version Number": "a2f139e9123bdb5edf7707ac6f1b73b3aa5038dd",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/codecs/libgav1.git@a2f139e9123bdb5edf7707ac6f1b73b3aa5038dd",
+        "Description": "第三方软件libgav1，是一个AV1 decoder，属于AV1编解码器的实现"
+    }
+]
